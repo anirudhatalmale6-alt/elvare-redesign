@@ -9,11 +9,6 @@
  * Add as Code Snippet - "Run everywhere".
  */
 
-// Schedule the sync cron
-if (!wp_next_scheduled('elvare_stock_sync_event')) {
-    wp_schedule_event(time(), 'elvare_every_6h', 'elvare_stock_sync_event');
-}
-
 // Add custom 6-hour interval
 add_filter('cron_schedules', function($schedules) {
     $schedules['elvare_every_6h'] = array(
@@ -21,6 +16,13 @@ add_filter('cron_schedules', function($schedules) {
         'display' => 'Every 6 Hours'
     );
     return $schedules;
+});
+
+// Schedule the sync cron (after interval is registered)
+add_action('init', function() {
+    if (!wp_next_scheduled('elvare_stock_sync_event')) {
+        wp_schedule_event(time(), 'elvare_every_6h', 'elvare_stock_sync_event');
+    }
 });
 
 // The sync function
