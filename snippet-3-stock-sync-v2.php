@@ -89,17 +89,37 @@ function elvare_sync_stock_v2() {
 
         if ($match !== false) {
             $matched++;
-            $current_status = $product->get_stock_status();
             $new_status = $match['in_stock'] ? 'instock' : 'outofstock';
 
-            if ($current_status !== $new_status) {
-                $product->set_stock_status($new_status);
-                $product->set_manage_stock(false);
-                $product->save();
-                $updated++;
+            if ($product->is_type('variable')) {
+                // For variable products, update all variations and then sync parent
+                $children = $product->get_children();
+                foreach ($children as $child_id) {
+                    $variation = wc_get_product($child_id);
+                    if ($variation && $variation->get_stock_status() !== $new_status) {
+                        $variation->set_stock_status($new_status);
+                        $variation->set_manage_stock(false);
+                        $variation->save();
+                    }
+                }
+                WC_Product_Variable::sync($product_id);
+                $parent_status = $product->get_stock_status();
+                if ($parent_status !== $new_status) {
+                    $updated++;
+                    $status_text = $match['in_stock'] ? 'IN STOCK' : 'OUT OF STOCK';
+                    error_log("Elvare Stock Sync: '{$product->get_name()}' (variable) -> {$status_text} (matched: {$match['name']})");
+                }
+            } else {
+                $current_status = $product->get_stock_status();
+                if ($current_status !== $new_status) {
+                    $product->set_stock_status($new_status);
+                    $product->set_manage_stock(false);
+                    $product->save();
+                    $updated++;
 
-                $status_text = $match['in_stock'] ? 'IN STOCK' : 'OUT OF STOCK';
-                error_log("Elvare Stock Sync: '{$product->get_name()}' -> {$status_text} (matched: {$match['name']})");
+                    $status_text = $match['in_stock'] ? 'IN STOCK' : 'OUT OF STOCK';
+                    error_log("Elvare Stock Sync: '{$product->get_name()}' -> {$status_text} (matched: {$match['name']})");
+                }
             }
         }
     }
