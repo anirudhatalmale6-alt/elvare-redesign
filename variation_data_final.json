@@ -1,0 +1,1570 @@
+[
+  {
+    "elvare_id": 2465,
+    "elvare_name": "SSA \u2013 Clear Whey",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Lemon Lime",
+        "ps_price": 699.0,
+        "elvare_price": 735,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Fruit Punch",
+        "ps_price": 699.0,
+        "elvare_price": 735,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2482,
+    "elvare_name": "Evolve \u2013 R.E.A.L HYDRATION",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Tropical Fruit",
+        "ps_price": 249.0,
+        "elvare_price": 265,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Berries",
+        "ps_price": 249.0,
+        "elvare_price": 265,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Strawberry Watermelon",
+        "ps_price": 249.0,
+        "elvare_price": 265,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2496,
+    "elvare_name": "Evolve \u2013 EVOLVE UNDERGROUND PRE",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Litchi Pear",
+        "ps_price": 259.0,
+        "elvare_price": 275,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Candy Apple",
+        "ps_price": 259.0,
+        "elvare_price": 275,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2500,
+    "elvare_name": "NPL \u2013 HYDRADE RAPID ISOTONIC Sachet",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Naartjie",
+        "ps_price": 12.0,
+        "elvare_price": 15,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Tropical",
+        "ps_price": 12.0,
+        "elvare_price": 15,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2502,
+    "elvare_name": "NPL \u2013 HYDRADE RAPID ISOTONIC",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Naartjie",
+        "ps_price": 99.99,
+        "elvare_price": 105,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Tropical",
+        "ps_price": 99.99,
+        "elvare_price": 105,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2504,
+    "elvare_name": "NPL \u2013 HYDRADE RACE FUEL",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Naartjie",
+        "ps_price": 19.99,
+        "elvare_price": 25,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Lemon",
+        "ps_price": 19.99,
+        "elvare_price": 25,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2506,
+    "elvare_name": "NPL \u2013 Hydrade Hydrolytes",
+    "attr_name": "QTY",
+    "variations": [
+      {
+        "attr_value": "10's",
+        "ps_price": 99.99,
+        "elvare_price": 105,
+        "in_stock": true
+      },
+      {
+        "attr_value": "20's",
+        "ps_price": 199.99,
+        "elvare_price": 210,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Single Sachet",
+        "ps_price": 9.99,
+        "elvare_price": 15,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2532,
+    "elvare_name": "Evolve \u2013 Basix Collagen",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Mixed Berries",
+        "ps_price": 349.0,
+        "elvare_price": 370,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Tropical Fruit",
+        "ps_price": 349.0,
+        "elvare_price": 370,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 1664,
+    "elvare_name": "CREATINE CHEWS 400g (90 Chews)",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Citrus Zest",
+        "ps_price": 299.0,
+        "elvare_price": 315,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Kiwi Strawberry",
+        "ps_price": 299.0,
+        "elvare_price": 315,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2536,
+    "elvare_name": "Slender You \u2013 Meal Replacement",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Chocolate",
+        "ps_price": 299.0,
+        "elvare_price": 315,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Cinnamon Pancake",
+        "ps_price": 299.0,
+        "elvare_price": 315,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Strawberry",
+        "ps_price": 299.0,
+        "elvare_price": 315,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Vanilla",
+        "ps_price": 299.0,
+        "elvare_price": 315,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2567,
+    "elvare_name": "HD Labs \u2013 Creatine Ultra",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Icy Blue Lemonade",
+        "ps_price": 309.0,
+        "elvare_price": 325,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Green Apple",
+        "ps_price": 309.0,
+        "elvare_price": 325,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2961,
+    "elvare_name": "NPL \u2013 Platinum Whey 908g",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Chocolate Candy Dream",
+        "ps_price": 1279.99,
+        "elvare_price": 1345,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Vanilla Ice Cream",
+        "ps_price": 1279.99,
+        "elvare_price": 1345,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Choc Nougat",
+        "ps_price": 1279.99,
+        "elvare_price": 1345,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Cookies & Cream",
+        "ps_price": 1279.99,
+        "elvare_price": 1345,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Malted Choc",
+        "ps_price": 1279.99,
+        "elvare_price": 1345,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Strawberry Cheesecake",
+        "ps_price": 1279.99,
+        "elvare_price": 1345,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2573,
+    "elvare_name": "TNT \u2013 Crea-Combat Xfroce",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Fruit Blast",
+        "ps_price": 230.0,
+        "elvare_price": 245,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Xplosive Cherry",
+        "ps_price": 230.0,
+        "elvare_price": 245,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2586,
+    "elvare_name": "Evolve \u2013 Loaded Pre",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Rainbow Stripes",
+        "ps_price": 449.0,
+        "elvare_price": 475,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Black Mango",
+        "ps_price": 449.0,
+        "elvare_price": 475,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2593,
+    "elvare_name": "iPharma \u2013 Stark Pre-Workout 320g",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Sour Kiwi",
+        "ps_price": 350.0,
+        "elvare_price": 370,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Rocket Pop",
+        "ps_price": 350.0,
+        "elvare_price": 370,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Cotton Candy",
+        "ps_price": 350.0,
+        "elvare_price": 370,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2605,
+    "elvare_name": "Evolve \u2013 CHEMICAL X FRENZY",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Strawberry Pine",
+        "ps_price": 229.0,
+        "elvare_price": 245,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Blue Raspberry",
+        "ps_price": 229.0,
+        "elvare_price": 245,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Fruit Punch",
+        "ps_price": 229.0,
+        "elvare_price": 245,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Grape",
+        "ps_price": 229.0,
+        "elvare_price": 245,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2342,
+    "elvare_name": "Ultra Anabolic Mass \u2013 4kg \u2013 Vanilla Flavour",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Vanilla",
+        "ps_price": 249.0,
+        "elvare_price": 265,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Chocolate",
+        "ps_price": 249.0,
+        "elvare_price": 265,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2617,
+    "elvare_name": "SSA \u2013 Crea Size +",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Sour Berry",
+        "ps_price": 199.0,
+        "elvare_price": 210,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Melon Candy",
+        "ps_price": 199.0,
+        "elvare_price": 210,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2621,
+    "elvare_name": "NPL \u2013 Diet Pro Bars",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Choc Coconut",
+        "ps_price": 30.95,
+        "elvare_price": 35,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Choc Mint",
+        "ps_price": 30.95,
+        "elvare_price": 35,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Double Choc",
+        "ps_price": 30.95,
+        "elvare_price": 35,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2623,
+    "elvare_name": "NPL \u2013 #21 PROTEIN BARS",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Cookie Dough",
+        "ps_price": 35.0,
+        "elvare_price": 40,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Choc Nut",
+        "ps_price": 35.0,
+        "elvare_price": 40,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Caramel Sea Salt",
+        "ps_price": 35.0,
+        "elvare_price": 40,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Chocolate Caramel",
+        "ps_price": 35.0,
+        "elvare_price": 40,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Choc Mint",
+        "ps_price": 35.0,
+        "elvare_price": 40,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2629,
+    "elvare_name": "NPL \u2013 BCAA EAA 12:1:1 600g",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Blood Orange",
+        "ps_price": 499.99,
+        "elvare_price": 525,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Ice Pop",
+        "ps_price": 499.99,
+        "elvare_price": 525,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Melon Splash",
+        "ps_price": 499.9,
+        "elvare_price": 525,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2633,
+    "elvare_name": "PNS \u2013 Pre-Dator Hybrid Pre Workout",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Red Beast",
+        "ps_price": 575.0,
+        "elvare_price": 605,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Fruit Punch",
+        "ps_price": 575.0,
+        "elvare_price": 605,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Mango Orange",
+        "ps_price": 575.0,
+        "elvare_price": 605,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2643,
+    "elvare_name": "PNS \u2013 Pre-Dator Xtreme",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Fruit Punch",
+        "ps_price": 399.0,
+        "elvare_price": 420,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Candy Apple",
+        "ps_price": 399.0,
+        "elvare_price": 420,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2994,
+    "elvare_name": "TNT \u2013 Black Mass 4Kg",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "White Chocolate",
+        "ps_price": 619.0,
+        "elvare_price": 650,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Chocolate Caramel",
+        "ps_price": 619.0,
+        "elvare_price": 650,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Chocolate Nut",
+        "ps_price": 619.0,
+        "elvare_price": 650,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2647,
+    "elvare_name": "NPL \u2013 Pro Mass 2kg",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Candy Dream",
+        "ps_price": 299.99,
+        "elvare_price": 315,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Chocolate Milkshake",
+        "ps_price": 299.99,
+        "elvare_price": 315,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Vanilla Milkshake",
+        "ps_price": 299.99,
+        "elvare_price": 315,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2901,
+    "elvare_name": "SSA \u2013 Premium Whey 908g",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Chocolate Mousse",
+        "ps_price": 999.0,
+        "elvare_price": 1050,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Vanilla Cream",
+        "ps_price": 999.0,
+        "elvare_price": 1050,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Strawberry Sundae",
+        "ps_price": 999.0,
+        "elvare_price": 1050,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2659,
+    "elvare_name": "SSA \u2013 Whey Extreme 908g \u2013 Bag",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Chocolate Mousse",
+        "ps_price": 329.0,
+        "elvare_price": 350,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Vanilla Cream",
+        "ps_price": 329.0,
+        "elvare_price": 350,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Strawberry Sundae",
+        "ps_price": 329.0,
+        "elvare_price": 350,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2925,
+    "elvare_name": "SSA \u2013 Anabolic Muscle Stack 908g Bag",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Vanilla Cream",
+        "ps_price": 399.0,
+        "elvare_price": 420,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Chocolate Mousse",
+        "ps_price": 399.0,
+        "elvare_price": 420,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Strawberry Sundae",
+        "ps_price": 399.0,
+        "elvare_price": 420,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2670,
+    "elvare_name": "NPL \u2013 Hydrade Energy Drink 500ml",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Blitz Berry",
+        "ps_price": 15.0,
+        "elvare_price": 20,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Paradise Punch",
+        "ps_price": 15.0,
+        "elvare_price": 20,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Blue Razzberry",
+        "ps_price": 15.0,
+        "elvare_price": 20,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Island vibe",
+        "ps_price": 15.0,
+        "elvare_price": 20,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Mango Melon",
+        "ps_price": 15.0,
+        "elvare_price": 20,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Satsuma Naartjie",
+        "ps_price": 15.0,
+        "elvare_price": 20,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Violet Haze",
+        "ps_price": 15.0,
+        "elvare_price": 20,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2672,
+    "elvare_name": "Nutritech \u2013 Endurade Energy+",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Candy Cruise",
+        "ps_price": 89.0,
+        "elvare_price": 95,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Black Current Blaze",
+        "ps_price": 89.0,
+        "elvare_price": 95,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Tropical Thunder",
+        "ps_price": 89.0,
+        "elvare_price": 95,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2700,
+    "elvare_name": "NPL \u2013 Vegan Protein 710g",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Chocolate",
+        "ps_price": 449.0,
+        "elvare_price": 475,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Vanilla Nut",
+        "ps_price": 449.0,
+        "elvare_price": 475,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Strawberry",
+        "ps_price": 449.0,
+        "elvare_price": 475,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2710,
+    "elvare_name": "HD Labs \u2013 Venom",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Pineapple",
+        "ps_price": 350.0,
+        "elvare_price": 370,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Blueberry",
+        "ps_price": 350.0,
+        "elvare_price": 370,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Fruit Punch",
+        "ps_price": 350.0,
+        "elvare_price": 370,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2714,
+    "elvare_name": "NPL \u2013 1 Liter Non-Return Valve Water Bottle",
+    "attr_name": "Colour",
+    "variations": [
+      {
+        "attr_value": "Hydrade",
+        "ps_price": 59.99,
+        "elvare_price": 65,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Yellow",
+        "ps_price": 59.99,
+        "elvare_price": 65,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Turquoise",
+        "ps_price": 59.99,
+        "elvare_price": 65,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Black",
+        "ps_price": 59.99,
+        "elvare_price": 65,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Pink",
+        "ps_price": 59.99,
+        "elvare_price": 65,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2720,
+    "elvare_name": "NPL \u2013 New Hustle BCAA Energy Drink \u2013 Bubble Fruit",
+    "attr_name": "Size",
+    "variations": [
+      {
+        "attr_value": "Single Can",
+        "ps_price": 25.0,
+        "elvare_price": 30,
+        "in_stock": true
+      },
+      {
+        "attr_value": "6 Pack",
+        "ps_price": 149.99,
+        "elvare_price": 160,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Case (24)",
+        "ps_price": 539.0,
+        "elvare_price": 570,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2724,
+    "elvare_name": "SSA \u2013 Creatine Supreme 200g",
+    "attr_name": "Size",
+    "variations": [
+      {
+        "attr_value": "200g",
+        "ps_price": 179.0,
+        "elvare_price": 190,
+        "in_stock": true
+      },
+      {
+        "attr_value": "500g",
+        "ps_price": 399.0,
+        "elvare_price": 420,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2727,
+    "elvare_name": "Nutritech \u2013 Endurade Sport+",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "BLUEBERRY BLITZ",
+        "ps_price": 69.0,
+        "elvare_price": 75,
+        "in_stock": true
+      },
+      {
+        "attr_value": "NATIONAL NAARTJIE",
+        "ps_price": 69.0,
+        "elvare_price": 75,
+        "in_stock": true
+      },
+      {
+        "attr_value": "PINEAPPLE PRIME",
+        "ps_price": 69.0,
+        "elvare_price": 75,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2735,
+    "elvare_name": "NPL \u2013 Anarchy Limited Edition",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Apple Candy",
+        "ps_price": 249.99,
+        "elvare_price": 265,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Red Dragon",
+        "ps_price": 249.99,
+        "elvare_price": 265,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Strawberry Sting",
+        "ps_price": 249.99,
+        "elvare_price": 265,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2741,
+    "elvare_name": "Barbarian \u2013 Hydra Charge 360g",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Cotton Candy",
+        "ps_price": 269.0,
+        "elvare_price": 285,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Mango Orange",
+        "ps_price": 269.0,
+        "elvare_price": 285,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2750,
+    "elvare_name": "NPL \u2013 Shaker 700ml",
+    "attr_name": "Colour",
+    "variations": [
+      {
+        "attr_value": "Aurora Pink",
+        "ps_price": 59.95,
+        "elvare_price": 65,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Peacock Blue",
+        "ps_price": 59.95,
+        "elvare_price": 65,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Antrazit",
+        "ps_price": 59.95,
+        "elvare_price": 65,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Mint",
+        "ps_price": 59.95,
+        "elvare_price": 65,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Yellow",
+        "ps_price": 59.95,
+        "elvare_price": 65,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Neon",
+        "ps_price": 59.95,
+        "elvare_price": 65,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2805,
+    "elvare_name": "NPL \u2013 Hydro Swirl Shaker 500ml",
+    "attr_name": "Colour",
+    "variations": [
+      {
+        "attr_value": "Black",
+        "ps_price": 120.0,
+        "elvare_price": 130,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Turquoise",
+        "ps_price": 120.0,
+        "elvare_price": 130,
+        "in_stock": false
+      },
+      {
+        "attr_value": "White",
+        "ps_price": 120.0,
+        "elvare_price": 130,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2989,
+    "elvare_name": "NPL \u2013 Hyper Gain 1kg",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Cookies & Cream",
+        "ps_price": 499.99,
+        "elvare_price": 525,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Chocolate",
+        "ps_price": 499.99,
+        "elvare_price": 525,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Strawberry",
+        "ps_price": 499.99,
+        "elvare_price": 525,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Vanilla",
+        "ps_price": 499.99,
+        "elvare_price": 525,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2760,
+    "elvare_name": "NPL \u2013 Diet Pro 908g",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Choc Nut Sundae",
+        "ps_price": 419.99,
+        "elvare_price": 445,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Coffee Mocha",
+        "ps_price": 419.99,
+        "elvare_price": 445,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Raspberry Greek Yoghurt",
+        "ps_price": 419.99,
+        "elvare_price": 445,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Vanilla Doughnut",
+        "ps_price": 419.99,
+        "elvare_price": 445,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2941,
+    "elvare_name": "NPL \u2013 PRO GAINS 1kg",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Choc Biscuit",
+        "ps_price": 749.99,
+        "elvare_price": 790,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Choc Candy",
+        "ps_price": 749.99,
+        "elvare_price": 790,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Vanilla Cream",
+        "ps_price": 749.99,
+        "elvare_price": 790,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Banana",
+        "ps_price": 749.99,
+        "elvare_price": 790,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2996,
+    "elvare_name": "TNT \u2013 SUPA MASS 1kg",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Chocolate Nut",
+        "ps_price": 499.0,
+        "elvare_price": 525,
+        "in_stock": true
+      },
+      {
+        "attr_value": "White Chocolate",
+        "ps_price": 499.0,
+        "elvare_price": 525,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Strawberry Marshmallow",
+        "ps_price": 499.0,
+        "elvare_price": 525,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Chocolate Mousse",
+        "ps_price": 499.0,
+        "elvare_price": 525,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Vanilla Fudge",
+        "ps_price": 499.0,
+        "elvare_price": 525,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 3000,
+    "elvare_name": "TNT \u2013 Prime Whey 925g",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Strawberry",
+        "ps_price": 999.0,
+        "elvare_price": 1050,
+        "in_stock": true
+      },
+      {
+        "attr_value": "White Chocolate",
+        "ps_price": 999.0,
+        "elvare_price": 1050,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Vanilla Caramel",
+        "ps_price": 999.0,
+        "elvare_price": 1050,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Choc-Nut Butter",
+        "ps_price": 999.0,
+        "elvare_price": 1050,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Choc-Bar Deluxe",
+        "ps_price": 999.0,
+        "elvare_price": 1050,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Chocolate Caramel",
+        "ps_price": 999.0,
+        "elvare_price": 1050,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2835,
+    "elvare_name": "Barbarian Nutrition \u2013 Beserk NOX",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Orange Mango",
+        "ps_price": 489.0,
+        "elvare_price": 515,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Pink Lemonade",
+        "ps_price": 489.0,
+        "elvare_price": 515,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2838,
+    "elvare_name": "Barbarian Nutrition \u2013 Untamed",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Sour Berry",
+        "ps_price": 349.0,
+        "elvare_price": 370,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Rocket Pop",
+        "ps_price": 349.0,
+        "elvare_price": 370,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Strawberry Lime",
+        "ps_price": 349.0,
+        "elvare_price": 370,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Cherry Cola",
+        "ps_price": 349.0,
+        "elvare_price": 370,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Pina Colada",
+        "ps_price": 349.0,
+        "elvare_price": 370,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2840,
+    "elvare_name": "Barbarian Nutrition \u2013 Colossal Mass",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Chocolate",
+        "ps_price": 475.0,
+        "elvare_price": 500,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Strawberry Banana",
+        "ps_price": 475.0,
+        "elvare_price": 500,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2889,
+    "elvare_name": "TNT \u2013 Napalm",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Berry Detonator",
+        "ps_price": 499.0,
+        "elvare_price": 525,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Shockwave",
+        "ps_price": 499.0,
+        "elvare_price": 525,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Tropical Saigon",
+        "ps_price": 499.0,
+        "elvare_price": 525,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2892,
+    "elvare_name": "NPL \u2013 Vaso Pump 300g",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Black Cherry",
+        "ps_price": 399.95,
+        "elvare_price": 420,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Strawberry Kiwi",
+        "ps_price": 399.95,
+        "elvare_price": 420,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2916,
+    "elvare_name": "SSA \u2013 Hellfire 240g",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Tropical Punch",
+        "ps_price": 165.0,
+        "elvare_price": 175,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Crushing Cherry Candy",
+        "ps_price": 165.0,
+        "elvare_price": 175,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Electric Blueberry",
+        "ps_price": 165.0,
+        "elvare_price": 175,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2928,
+    "elvare_name": "Nutritech \u2013 CASEIN 6HRS +",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "AMERICAN CREAM SODA",
+        "ps_price": 499.0,
+        "elvare_price": 525,
+        "in_stock": false
+      },
+      {
+        "attr_value": "CHOCOLATE MOUSSE",
+        "ps_price": 499.0,
+        "elvare_price": 525,
+        "in_stock": true
+      },
+      {
+        "attr_value": "COOKIES & CREAM SUNDAE",
+        "ps_price": 499.0,
+        "elvare_price": 525,
+        "in_stock": false
+      },
+      {
+        "attr_value": "STRAWBERRY CHEESECAKE",
+        "ps_price": 499.0,
+        "elvare_price": 525,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2931,
+    "elvare_name": "NPL \u2013 Carni Lean Liquid 5000",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Green Apple",
+        "ps_price": 299.95,
+        "elvare_price": 315,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Tropical Punch",
+        "ps_price": 299.95,
+        "elvare_price": 315,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2939,
+    "elvare_name": "NPL \u2013 Micellar Casein",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Choc Biscuit",
+        "ps_price": 589.99,
+        "elvare_price": 620,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Vanilla Custard",
+        "ps_price": 589.99,
+        "elvare_price": 620,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2955,
+    "elvare_name": "NPL \u2013 N.O. SHOCK",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Fruit Fusion",
+        "ps_price": 339.99,
+        "elvare_price": 360,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Wild Strawberry",
+        "ps_price": 339.99,
+        "elvare_price": 360,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2977,
+    "elvare_name": "NPL \u2013 Liquid L-Carnitine",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Wild Cherry",
+        "ps_price": 289.99,
+        "elvare_price": 305,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Crimson Berry",
+        "ps_price": 289.99,
+        "elvare_price": 305,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Tropical Punch",
+        "ps_price": 289.99,
+        "elvare_price": 305,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2983,
+    "elvare_name": "NPL \u2013 PRE-IGNITE (200g)",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Blueberry",
+        "ps_price": 319.99,
+        "elvare_price": 340,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Cherry",
+        "ps_price": 319.99,
+        "elvare_price": 340,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2985,
+    "elvare_name": "NPL \u2013 Water Jug (2.2L)",
+    "attr_name": "Colour",
+    "variations": [
+      {
+        "attr_value": "Black",
+        "ps_price": 119.95,
+        "elvare_price": 130,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Pink",
+        "ps_price": 119.95,
+        "elvare_price": 130,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2987,
+    "elvare_name": "NPL \u2013 Hyper Pump (500g)",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Watermelon Candy",
+        "ps_price": 539.99,
+        "elvare_price": 570,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Fruit Fusion",
+        "ps_price": 539.99,
+        "elvare_price": 570,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Candy Apple",
+        "ps_price": 539.99,
+        "elvare_price": 570,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 2991,
+    "elvare_name": "NPL \u2013 Amino Burn 200g",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Fruit Bliss",
+        "ps_price": 339.99,
+        "elvare_price": 360,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Strawberry Kiwi",
+        "ps_price": 339.99,
+        "elvare_price": 360,
+        "in_stock": false
+      },
+      {
+        "attr_value": "Summer Berries",
+        "ps_price": 339.99,
+        "elvare_price": 360,
+        "in_stock": false
+      }
+    ]
+  },
+  {
+    "elvare_id": 2998,
+    "elvare_name": "TNT \u2013 Creatine HCL 250g",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "Tropical Punch",
+        "ps_price": 299.0,
+        "elvare_price": 315,
+        "in_stock": true
+      },
+      {
+        "attr_value": "Cherry Berry",
+        "ps_price": 299.0,
+        "elvare_price": 315,
+        "in_stock": true
+      }
+    ]
+  },
+  {
+    "elvare_id": 3008,
+    "elvare_name": "Nutritech \u2013 VASO NO3 280g",
+    "attr_name": "Flavour",
+    "variations": [
+      {
+        "attr_value": "CRIMSON CRUSH",
+        "ps_price": 299.0,
+        "elvare_price": 315,
+        "in_stock": true
+      },
+      {
+        "attr_value": "INDIGO ICE",
+        "ps_price": 299.0,
+        "elvare_price": 315,
+        "in_stock": true
+      },
+      {
+        "attr_value": "TROPIAL RAIN",
+        "ps_price": 299.0,
+        "elvare_price": 315,
+        "in_stock": true
+      }
+    ]
+  }
+]
