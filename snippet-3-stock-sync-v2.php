@@ -92,19 +92,21 @@ function elvare_sync_stock_v2() {
             $new_status = $match['in_stock'] ? 'instock' : 'outofstock';
 
             if ($product->is_type('variable')) {
-                // For variable products, update all variations and then sync parent
-                $children = $product->get_children();
-                foreach ($children as $child_id) {
-                    $variation = wc_get_product($child_id);
-                    if ($variation && $variation->get_stock_status() !== $new_status) {
-                        $variation->set_stock_status($new_status);
-                        $variation->set_manage_stock(false);
-                        $variation->save();
-                    }
+                // For variable products, update all variation meta directly
+                $child_ids = get_posts(array(
+                    'post_type' => 'product_variation',
+                    'post_parent' => $product_id,
+                    'posts_per_page' => -1,
+                    'fields' => 'ids'
+                ));
+                foreach ($child_ids as $child_id) {
+                    update_post_meta($child_id, '_stock_status', $new_status);
                 }
-                WC_Product_Variable::sync($product_id);
-                $parent_status = $product->get_stock_status();
-                if ($parent_status !== $new_status) {
+                // Force parent stock status via post meta
+                $current_parent = get_post_meta($product_id, '_stock_status', true);
+                if ($current_parent !== $new_status) {
+                    update_post_meta($product_id, '_stock_status', $new_status);
+                    wc_delete_product_transients($product_id);
                     $updated++;
                     $status_text = $match['in_stock'] ? 'IN STOCK' : 'OUT OF STOCK';
                     error_log("Elvare Stock Sync: '{$product->get_name()}' (variable) -> {$status_text} (matched: {$match['name']})");
